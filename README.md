@@ -1,21 +1,24 @@
+<h1 align="center">Oiii! Eu sou o João Matheus de Lara</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Oi!+Eu+sou+o+Jo%C3%A3o+Matheus+de+Lara;Engenharia+de+sistemas+aplicada+%C3%A0+opera%C3%A7%C3%A3o+real;Backend+%E2%80%A2+Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Dados+%E2%80%A2+Automa%C3%A7%C3%A3o" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=38BDF8&lines=Backend+%E2%80%A2+Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Dados+%E2%80%A2+Automa%C3%A7%C3%A3o" />
 </p>
 
 <p align="center">
   <a href="https://www.tsigo.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/SITE-TSIGO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/TSIGO-site-0B5FFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-matheus-de-lara-629750298/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-jo%C3%A3o%20matheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/waynezika" target="_blank">
-    <img src="https://img.shields.io/badge/TWITCH-waynezika-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-waynezika-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
+
 
 <br/>
 
