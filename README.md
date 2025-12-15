@@ -1,58 +1,64 @@
-<!-- Header -->
 <h1 align="center">João Matheus de Lara</h1>
 
 <p align="center">
-  Gestão de frotas, rastreamento, telemetria e IoT na prática.
+  Engenharia de sistemas aplicada à operação real.
 </p>
 
 <p align="center">
-  <a href="https://www.tsigo.com.br/">Site</a> •
-  <a href="https://web.tsigo.com.br/">Plataforma</a>
+  Sistemas • Integrações • Dados • Automação • Produto
 </p>
 
-<!-- Typing (animação de texto) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=TSIGO+-+Rastreamento+e+Gest%C3%A3o+de+Frotas;Telemetria+avancada+%7C+Sensores+Temp%2FUmidade%2FCO2;Flutter+%7C+APIs+%7C+IoT+%7C+BI+e+Relat%C3%B3rios;Foco+em+resultado+no+campo+e+na+opera%C3%A7%C3%A3o" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Engenharia+aplicada+%C3%A0+opera%C3%A7%C3%A3o+real;Sistemas+de+rastreamento+e+gest%C3%A3o+de+frotas;Integra%C3%A7%C3%B5es%2C+telemetria%2C+automa%C3%A7%C3%A3o;Mobile%2C+Backend%2C+Hardware+e+Dados;Resolver+problemas+do+mundo+real+com+tecnologia" />
 </p>
 
 ---
 
-## Sobre mim
-- Trabalho com **rastreamento veicular** e evoluindo para **gestão completa de frota**
-- Integrações com **sensores** (temperatura, umidade, CO2), telemetria e automação
-- Desenvolvimento de **apps** e **integrações via API**
+## O que eu faço
+Atuo no desenvolvimento e evolução de **sistemas que rodam em produção**, conectando:
+
+- Software
+- Dispositivos
+- Dados
+- Operação
+- Usuário final
+
+Sempre com foco em **resultado prático**, não apenas código bonito.
 
 ---
 
-## Stack (o que eu uso)
-- Mobile: **Flutter / Dart**
-- Backend / Integrações: **REST APIs**
-- Dados: **relatórios, dashboards e indicadores**
-- IoT: **sensores e telemetria**
+## Áreas de atuação
+- Sistemas de rastreamento e monitoramento
+- Gestão operacional e tomada de decisão
+- Integrações via API
+- Telemetria e dados
+- Automação de processos
+- Desenvolvimento mobile e backend
+- Conexão entre hardware e software
 
 ---
 
-## Destaques
-- Telemetria + comportamento do motorista
-- Monitoramento de carga (congelados e carga viva)
-- Alertas inteligentes e gestão operacional
+## Ferramentas e tecnologias
+- Mobile: Flutter
+- Backend: APIs, serviços e integrações
+- Dados: relatórios, métricas e indicadores
+- Infra: automação e monitoramento
+- Hardware: sensores, dispositivos e comunicação
 
 ---
 
-## Contato
-- Site: https://www.tsigo.com.br/
-- Plataforma: https://web.tsigo.com.br/
-- E-mail: contato@tsigo.com.br
+## Projetos reais
+- Produtos usados no dia a dia de operações reais
+- Sistemas que lidam com falhas, exceções e cenários críticos
+- Tecnologia aplicada fora do laboratório
 
 ---
 
-<!-- Cards -->
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaomatheusdelara&show_icons=true&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatheusdelara&layout=compact" />
 </p>
 
-<!-- Snake (vai aparecer depois que ativarmos a Action) -->
 <p align="center">
-  <img src="https://github.com/joaomatheusdelara/joaomatheusdelara/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/joaomatheusdelara/joaomatheusdelara/output/github-contribution-grid-snake.svg" />
 </p>
