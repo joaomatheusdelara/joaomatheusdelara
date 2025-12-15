@@ -12,8 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -21,8 +25,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: joaomatheusdelara
 
-      - name: Commit and push files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update 3D contribution graph"
-          branch: main
+      # Debug: mostra se criou a pasta/arquivos
+      - name: Show generated files
+        run: |
+          echo "=== LIST ROOT ==="
+          ls -la
+          echo "=== LIST profile-3d-contrib (if exists) ==="
+          ls -la profile-3d-contrib || true
+          echo "=== GIT STATUS ==="
+          git status
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
