@@ -1,7 +1,7 @@
 <h1 align="center">Oiii! Eu sou o João Matheus de Lara 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Backend+%E2%80%A2+Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Dados+%E2%80%A2+Automa%C3%A7%C3%A3o" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Telemetria+%E2%80%A2+Dados" />
 </p>
 
 <p align="center">
@@ -48,10 +48,11 @@
 ---
 
 ## 👨‍💻 Sobre mim
+Atuo no desenvolvimento de soluções tecnológicas completas, integrando **software, hardware e dados** para resolver problemas reais de operação.
 
-Atuo no desenvolvimento de **sistemas completos**, conectando **software, hardware e dados** para resolver problemas reais de operação, com foco em automação, telemetria e integração entre sistemas.
+Atualmente trabalho na **TSIGO**, atuando no desenvolvimento de sistemas e na busca constante por novas tecnologias voltadas ao mercado de **automação, rastreamento, gestão de frotas e monitoramento em tempo real**.
 
-Tenho experiência prática em projetos **em produção**, especialmente em backend, aplicações mobile e integrações, além de base acadêmica sólida em diferentes tecnologias, o que facilita a adaptação e evolução contínua.
+Tenho experiência prática em projetos **em produção**, com foco em **aplicações mobile, integrações e automação**, além de uma base acadêmica sólida em diferentes tecnologias, o que facilita a adaptação e a evolução contínua.
 
 ### 💼 Stack em uso prático
 
