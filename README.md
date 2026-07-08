@@ -2,9 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Desenvolvimento+Mobile;Integrações+com+APIs;Automação+e+Telemetria;Soluções+reais+para+operações;Software+%2B+Hardware+%2B+Dados" />
-</p>
+<h3 align="center">
+  Mobile • Integrações • Automação • Telemetria • Dados
+</h3>
 
 <p align="center">
   <a href="https://www.tsigo.com.br/" target="_blank">
@@ -186,6 +186,22 @@ Mesmo com vários projetos privados, mantenho meus códigos organizados no GitHu
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomatheusdelara&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribuições em movimento
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaomatheusdelara/joaomatheusdelara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🧊 Contribuições 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 ---
