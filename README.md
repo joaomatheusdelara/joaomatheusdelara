@@ -1,4 +1,4 @@
-<h1 align="center">Oiii! Eu sou o João Matheus de Lara 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Telemetria+%E2%80%A2+Dados" />
@@ -8,7 +8,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
 </p>
 
-<h1 align="center">Oiii! Eu sou o João Matheus de Lara 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Desenvolvimento+Mobile;Integrações+com+APIs;Automação+e+Telemetria;Soluções+reais+para+operações;Software+%2B+Hardware+%2B+Dados" />
