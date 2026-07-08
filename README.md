@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria&descSize=18&descAlignY=58" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomatheusdelara&theme=dracula&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 <p align="center">
