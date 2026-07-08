@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaomatheusdelara&theme=dracula&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://streak-stats.demolab.com?user=joaomatheusdelara&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
