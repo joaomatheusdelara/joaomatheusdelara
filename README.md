@@ -22,6 +22,10 @@
 <br/>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria&descSize=18&descAlignY=58" />
+</p>
+
+<p align="center">
   <img height="165" alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=joaomatheusdelara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
   <img height="165" alt="Top Languages"
