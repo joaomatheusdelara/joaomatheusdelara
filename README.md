@@ -2,9 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
 </p>
 
-<h3 align="center">
-  Mobile • Integrações • Automação • Telemetria • Dados
-</h3>
 
 <p align="center">
   <a href="https://www.tsigo.com.br/" target="_blank">
