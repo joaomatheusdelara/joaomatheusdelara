@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:003B8E,100:007BFF&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
 </p>
 
 
@@ -225,5 +225,5 @@ Mesmo com vários projetos privados, mantenho meus códigos organizados no GitHu
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,100:114474" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:007BFF,100:003B8E" />
 </p>
