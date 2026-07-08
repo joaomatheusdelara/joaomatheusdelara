@@ -22,8 +22,10 @@
 <br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaomatheusdelara&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatheusdelara&layout=compact&theme=dracula&langs_count=10&hide_border=true" />
+  <img height="165" alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=joaomatheusdelara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  <img height="165" alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatheusdelara&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=21600" />
 </p>
 
 <br/>
