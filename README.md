@@ -1,17 +1,9 @@
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Mobile+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Telemetria+%E2%80%A2+Dados" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:114474,100:8B5CF6&text=João%20Matheus%20de%20Lara&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Mobile%20%7C%20Integrações%20%7C%20Automação%20%7C%20Telemetria%20%7C%20Dados&descSize=17&descAlignY=58" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Desenvolvimento+Mobile;Integrações+com+APIs;Automação+e+Telemetria;Soluções+reais+para+operações;Software+%2B+Hardware+%2B+Dados" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8B5CF6&lines=Desenvolvimento+Mobile;Integrações+com+APIs;Automação+e+Telemetria;Soluções+reais+para+operações;Software+%2B+Hardware+%2B+Dados" />
 </p>
 
 <p align="center">
@@ -178,6 +170,18 @@ Essa base contribuiu para minha evolução em **lógica, estrutura de dados, tes
 
 ---
 
+## 🚀 Projetos privados também contam
+
+Mesmo com vários projetos privados, mantenho meus códigos organizados no GitHub para ter:
+
+- Histórico de evolução dos sistemas
+- Controle de versões
+- Backup seguro dos projetos
+- Organização por aplicação, API e módulo
+- Facilidade para apresentar algum projeto específico no futuro
+
+---
+
 ## 📊 Atividade no GitHub
 
 <p align="center">
@@ -186,19 +190,26 @@ Essa base contribuiu para minha evolução em **lógica, estrutura de dados, tes
 
 ---
 
-## 🐍 Contribuições
+## 🧠 Atualmente estudando e evoluindo em
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaomatheusdelara/joaomatheusdelara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <h3>📱 Mobile</h3>
+      <p>Melhorando aplicações Flutter, integração com APIs, Firebase e funcionamento offline.</p>
+    </td>
+    <td width="33%">
+      <h3>🛰️ Telemetria</h3>
+      <p>Aprofundando regras, eventos, dados em tempo real e comportamento operacional.</p>
+    </td>
+    <td width="33%">
+      <h3>⚙️ Automação</h3>
+      <p>Criando soluções para reduzir trabalho manual e melhorar processos internos.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 🧊 Contribuições 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,100:114474" />
